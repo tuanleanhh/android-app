@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/lv1"
+        android:title="Level 1" />
+
+    <item
+        android:id="@+id/lv2"
+        android:title="Level 2" />
+    <item
+        android:id="@+id/lv3"
+        android:title="Level 3" />
+    <item android:id="@+id/history"
+        android:title="Điểm cao"/>
+    <item android:id="@+id/exit"
+        android:title="Thoát"/>
+</menu>
