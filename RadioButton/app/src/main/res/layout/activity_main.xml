@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:text="Danh gia su hai long mon hoc:"
+        android:textColor="#FF9800"
+        android:textSize="20sp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/radTuyetvoi"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tuyet voi!" />
+
+        <RadioButton
+            android:id="@+id/radBinhthuong"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Binh thuong" />
+
+        <RadioButton
+            android:id="@+id/radHoite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hoi te" />
+
+        <RadioButton
+            android:id="@+id/radRatte"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rat te!" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnBinhChon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:text="Binh Chon" />
+
+</LinearLayout>

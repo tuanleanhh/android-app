@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextViewEditTextButton</string>
+    <string name="textview">TextView</string>
+    <string name="nh_p_t_n">Nhập Tên</string>
+    <string name="nh_p_tn">Nhập tên:</string>
+    <string name="name">Name</string>
+    <string name="nh_p_s_i_n_tho_i">Nhập số điện thoại</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="g_i_th_ng_tin">Gửi Thông Tin</string>
+</resources>

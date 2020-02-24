@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XuLySuKien</string>
+    <string name="nhap_a">Nhap A:</string>
+    <string name="nhap_b">Nhap B:</string>
+    <string name="onclickxml">(+) onClickXML</string>
+    <string name="onclickxml2">(+)OnclickXML</string>
+    <string name="button">Button</string>
+    <string name="nhap_c">Nhap C</string>
+</resources>

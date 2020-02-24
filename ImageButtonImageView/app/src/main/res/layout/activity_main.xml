@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    tools:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#A6F053"
+        android:text="Ban muon hien thi hinh nao?"
+        android:textSize="20sp" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="113dp">
+
+        <RadioButton
+            android:id="@+id/radTelephone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Telephone"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/radCalculator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Caculator"
+            android:textSize="18sp" />
+
+        <RadioButton
+            android:id="@+id/radPub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="LightPub"
+            android:textSize="18sp" />
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/imgHinh"
+        android:layout_width="376dp"
+        android:layout_height="366dp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/pub" />
+
+    <ImageButton
+        android:id="@+id/btnThoat"
+        android:layout_width="wrap_content"
+        android:layout_height="77dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        app:srcCompat="@drawable/back" />
+</LinearLayout>

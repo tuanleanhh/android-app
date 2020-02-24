@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đa Ngôn Ngữ</string>
+    <string name="muaXuan">Mùa Xuân</string>
+    <string name="muaHa">Mùa Hạ</string>
+    <string name="muaThu">Mùa Thu</string>
+    <string name="muaDong">Mùa đông</string>
+</resources>

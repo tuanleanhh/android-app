@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layoutScreen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnCtrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Xoay control" />
+
+    <Button
+        android:id="@+id/btnScreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Xoay man hinh" />
+
+    <Button
+        android:id="@+id/btn3s"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="xoay 3s tat" />
+
+    <Button
+        android:id="@+id/btnEffect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hieu ung list view" />
+</LinearLayout>

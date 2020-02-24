@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Kythuatxulysukien</string>
+    <string name="onclickxml">(+) onClickXML</string>
+    <string name="nhap_a">Nhap A:</string>
+    <string name="nhap_b">Nhap B</string>
+</resources>

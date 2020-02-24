@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mnuMauXanh"
+        android:title="Tô Màu Xanh"></item>
+    <item android:id="@+id/mnuMauDo"
+        android:title="Tô Màu Đỏ"></item>
+    <item android:id="@+id/mnuMauVang"
+        android:title="Tô Màu Vàng"></item>
+    <item android:id="@+id/mnuExit"
+        android:title="Thoát"></item>
+
+</menu>

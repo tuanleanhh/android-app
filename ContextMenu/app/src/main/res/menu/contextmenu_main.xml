@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mnuInDam"
+        android:title="In Đậm"></item>
+    <item android:id="@+id/mnuRed"
+        android:title="Tô chữ màu đỏ"></item>
+    <item android:id="@+id/mnuDel"
+        android:title="Xoá control này!"></item>
+
+</menu>

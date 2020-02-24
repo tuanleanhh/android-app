@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiLanguagesInView</string>
+    <string name="muaXuan">Spring</string>
+    <string name="muaHa">Summer</string>
+    <string name="muaThu">Autumn</string>
+    <string name="muaDong">Winter</string>
+</resources>
